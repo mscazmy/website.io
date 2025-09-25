@@ -1,8 +1,0 @@
-
-## Assets
-
-For the assets folder, you'll need to:
-1. Add a profile photo named `avatar.png` (circular crop recommended, at least 300x300px)
-2. Add a PDF version of the CV named `CV.pdf`
-
-This implementation provides a fully functional, responsive website that meets all the requirements specified. The code is well-commented and follows best practices for accessibility, performance, and maintainability.
