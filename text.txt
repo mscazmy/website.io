@@ -1,0 +1,7 @@
+├── index.html
+├── styles.css
+├── scripts.js
+├── assets/
+│   ├── avatar.png
+│   └── CV.pdf
+└── README.md
